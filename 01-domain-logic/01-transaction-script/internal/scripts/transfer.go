@@ -5,13 +5,6 @@ import (
 	"fmt"
 )
 
-// Account represents a bank account
-type Account struct {
-	ID      int
-	Name    string
-	Balance float64
-}
-
 // TransferScript is responsible for handling business logic
 type TransferScript struct {
 	db *sql.DB
