@@ -11,3 +11,4 @@ A bunch of examples of the patterns described by Fowler in Go.
    - [Service Layer](./01-domain-logic/04-service-layer)
 2. Data Source Architectural Patterns
    - [Table Data Gateway](./02-data-source-architectural/01-table-data-gateway)
+   - [Row Data Gateway](./02-data-source-architectural/02-row-data-gateway)
