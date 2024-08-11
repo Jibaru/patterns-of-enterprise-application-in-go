@@ -1,7 +1,7 @@
 <div align="center">
     <img src="./assets/images/logo.png" width="300"/>
     <h1 style="font-family: 'Yu Gothic'">Patterns of Enterprise Applications in Go</h1>
-    <p style="font-style: italic">A bunch of examples of the patterns described by in Go</p>
+    <p style="font-style: italic">A bunch of examples of the patterns described by Fowler in Go</p>
 </div>
 
 # Index
