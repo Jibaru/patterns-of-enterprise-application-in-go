@@ -8,3 +8,4 @@ A bunch of examples of the patterns described by Fowler in Go.
    - [Transaction Script](./01-domain-logic/01-transaction-script)
    - [Domain Model](./01-domain-logic/02-domain-model)
    - [Table Module](./01-domain-logic/03-table-module)
+   - [Service Layer](./01-domain-logic/04-service-layer)
