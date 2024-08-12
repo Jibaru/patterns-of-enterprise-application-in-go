@@ -18,3 +18,4 @@
    - [Data Mapper](./02-data-source-architectural/04-data-mapper)
 3. Object-Relational Behavioral Patterns
    - [Unit Of Work](./03-object-relational-behavioral/01-unit-of-work)
+   - [Identity Map](./03-object-relational-behavioral/02-identity-map)
