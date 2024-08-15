@@ -19,3 +19,4 @@
 3. Object-Relational Behavioral Patterns
    - [Unit Of Work](./03-object-relational-behavioral/01-unit-of-work)
    - [Identity Map](./03-object-relational-behavioral/02-identity-map)
+   - [Lazy Load](./03-object-relational-behavioral/03-lazy-load)
