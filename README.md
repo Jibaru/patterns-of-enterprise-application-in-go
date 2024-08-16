@@ -20,3 +20,5 @@
    - [Unit Of Work](./03-object-relational-behavioral/01-unit-of-work)
    - [Identity Map](./03-object-relational-behavioral/02-identity-map)
    - [Lazy Load](./03-object-relational-behavioral/03-lazy-load)
+4. Object-Relational Structural Patterns
+   - [Identity Field](./04-object-relational-structural/01-identity-field)
