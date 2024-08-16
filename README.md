@@ -25,3 +25,4 @@
    - [Foreign Key Mapping](./04-object-relational-structural/02-foreign-key-mapping)
    - [Association Table Mapping](./04-object-relational-structural/03-association-table-mapping)
    - [Dependent Mapping](./04-object-relational-structural/04-dependent-mapping)
+   - [Embedded Value](./04-object-relational-structural/05-embedded-value)
