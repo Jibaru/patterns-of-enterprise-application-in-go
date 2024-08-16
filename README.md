@@ -26,3 +26,4 @@
    - [Association Table Mapping](./04-object-relational-structural/03-association-table-mapping)
    - [Dependent Mapping](./04-object-relational-structural/04-dependent-mapping)
    - [Embedded Value](./04-object-relational-structural/05-embedded-value)
+   - [Serialized LOB](./04-object-relational-structural/06-serialized-lob)
