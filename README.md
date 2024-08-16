@@ -23,3 +23,4 @@
 4. Object-Relational Structural Patterns
    - [Identity Field](./04-object-relational-structural/01-identity-field)
    - [Foreign Key Mapping](./04-object-relational-structural/02-foreign-key-mapping)
+   - [Association Table Mapping](./04-object-relational-structural/03-association-table-mapping)
