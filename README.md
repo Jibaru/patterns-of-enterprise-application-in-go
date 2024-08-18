@@ -29,3 +29,4 @@
    - [Serialized LOB](./04-object-relational-structural/06-serialized-lob)
    - [Single Table Inheritance](./04-object-relational-structural/07-single-table-inheritance)
    - [Class Table Inheritance](./04-object-relational-structural/08-class-table-inheritance)
+   - [Concrete Table Inheritance](./04-object-relational-structural/09-concrete-table-inheritance)
