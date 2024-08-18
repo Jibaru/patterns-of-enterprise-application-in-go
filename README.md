@@ -30,3 +30,4 @@
    - [Single Table Inheritance](./04-object-relational-structural/07-single-table-inheritance)
    - [Class Table Inheritance](./04-object-relational-structural/08-class-table-inheritance)
    - [Concrete Table Inheritance](./04-object-relational-structural/09-concrete-table-inheritance)
+   - [Inheritance Mappers](./04-object-relational-structural/10-inheritance-mappers)
