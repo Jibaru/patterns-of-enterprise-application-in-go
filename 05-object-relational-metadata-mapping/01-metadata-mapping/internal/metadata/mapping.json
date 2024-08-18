@@ -1,0 +1,18 @@
+{
+  "Product": {
+    "table": "products",
+    "fields": {
+      "ID": "id",
+      "Name": "name",
+      "Price": "price"
+    }
+  },
+  "Customer": {
+    "table": "customers",
+    "fields": {
+      "ID": "id",
+      "FullName": "name",
+      "Email": "email"
+    }
+  }
+}
