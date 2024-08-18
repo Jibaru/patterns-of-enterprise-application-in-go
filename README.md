@@ -33,3 +33,4 @@
    - [Inheritance Mappers](./04-object-relational-structural/10-inheritance-mappers)
 5. Object-Relational Metadata Mapping
    - [Metadata Mapping](./05-object-relational-metadata-mapping/01-metadata-mapping)
+   - [Query Object](./05-object-relational-metadata-mapping/02-query-object)
