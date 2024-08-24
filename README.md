@@ -34,3 +34,4 @@
 5. Object-Relational Metadata Mapping
    - [Metadata Mapping](./05-object-relational-metadata-mapping/01-metadata-mapping)
    - [Query Object](./05-object-relational-metadata-mapping/02-query-object)
+   - [Repository](./05-object-relational-metadata-mapping/03-repository)
