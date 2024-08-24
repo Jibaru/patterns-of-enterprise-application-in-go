@@ -31,7 +31,9 @@
    - [Class Table Inheritance](./04-object-relational-structural/08-class-table-inheritance)
    - [Concrete Table Inheritance](./04-object-relational-structural/09-concrete-table-inheritance)
    - [Inheritance Mappers](./04-object-relational-structural/10-inheritance-mappers)
-5. Object-Relational Metadata Mapping
+5. Object-Relational Metadata Mapping Patterns
    - [Metadata Mapping](./05-object-relational-metadata-mapping/01-metadata-mapping)
    - [Query Object](./05-object-relational-metadata-mapping/02-query-object)
    - [Repository](./05-object-relational-metadata-mapping/03-repository)
+6. Web Presentation Patterns
+   - [Model View Controller](./06-web-presentation/01-model-view-controller)
