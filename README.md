@@ -38,3 +38,4 @@
 6. Web Presentation Patterns
    - [Model View Controller](./06-web-presentation/01-model-view-controller)
    - [Page Controller](./06-web-presentation/02-page-controller)
+   - [Front Controller](./06-web-presentation/03-front-controller)

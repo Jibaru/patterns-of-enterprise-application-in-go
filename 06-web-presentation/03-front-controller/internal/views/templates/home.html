@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Blog Home</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 20px;
+      }
+
+      h1 {
+        color: #333;
+        text-align: center;
+      }
+
+      a {
+        color: #1a73e8;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      ul {
+        list-style-type: none;
+        padding: 0;
+      }
+
+      li {
+        background-color: #fff;
+        margin: 10px 0;
+        padding: 15px;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+
+      li a {
+        margin-left: 10px;
+      }
+
+      li a:last-child {
+        color: #ff5252;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Blog Posts</h1>
+    <a href="/posts/create">Create New Post</a>
+    <ul>
+      {{range .}}
+      <li>{{.Title}} - <a href="/posts/edit?id={{.ID}}">Edit</a></li>
+      {{end}}
+    </ul>
+  </body>
+</html>
