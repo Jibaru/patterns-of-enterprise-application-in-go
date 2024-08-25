@@ -37,3 +37,4 @@
    - [Repository](./05-object-relational-metadata-mapping/03-repository)
 6. Web Presentation Patterns
    - [Model View Controller](./06-web-presentation/01-model-view-controller)
+   - [Page Controller](./06-web-presentation/02-page-controller)
