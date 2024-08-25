@@ -1,4 +1,4 @@
-# Model View Controller
+# Page Controller
 
 An object that handles a request for a specific page or action on a Web site.
 
