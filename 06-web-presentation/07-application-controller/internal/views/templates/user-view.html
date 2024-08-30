@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Book Details</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 20px;
+      }
+
+      h1 {
+        color: #333;
+        text-align: center;
+      }
+
+      p {
+        background-color: #fff;
+        padding: 15px;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        max-width: 600px;
+        margin: 10px auto;
+        color: #555;
+      }
+
+      b {
+        color: #333;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>User Details</h1>
+    <p><b>Name:</b> {{.Name}}</p>
+    <p><b>Email:</b> {{.Email}}</p>
+  </body>
+</html>
