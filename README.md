@@ -51,3 +51,5 @@
    - [Pessimistic Offline Lock](./08-offline-concurrency/02-pessimistic-offline-lock)
    - [Coarse-Grained Lock](./08-offline-concurrency/03-coarse-grained-lock)
    - [Implicit Lock](./08-offline-concurrency/04-implicit-lock)
+9. Session State Patterns
+   - [Client Session State](./09-session-state/01-client-session-state)
