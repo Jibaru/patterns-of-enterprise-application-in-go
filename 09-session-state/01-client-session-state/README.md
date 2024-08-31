@@ -1,4 +1,4 @@
-# Session State
+# Client Session State
 
 Stores session state on the client.
 
