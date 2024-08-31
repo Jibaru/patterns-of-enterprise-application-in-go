@@ -46,3 +46,5 @@
 7. Distribution Patterns
    - [Remote Facade](./07-distribution-patterns/01-remote-facade)
    - [Data Transfer Object](./07-distribution-patterns/02-data-transfer-object)
+8. Offline Concurrency Patterns
+   - [Optimistic Offline Lock](./08-offline-concurrency/01-optimistic-offline-lock)
