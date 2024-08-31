@@ -44,8 +44,8 @@
    - [Two Step View](./06-web-presentation/06-two-step-view)
    - [Application Controller](./06-web-presentation/07-application-controller)
 7. Distribution Patterns
-   - [Remote Facade](./07-distribution-patterns/01-remote-facade)
-   - [Data Transfer Object](./07-distribution-patterns/02-data-transfer-object)
+   - [Remote Facade](./07-distribution/01-remote-facade)
+   - [Data Transfer Object](./07-distribution/02-data-transfer-object)
 8. Offline Concurrency Patterns
    - [Optimistic Offline Lock](./08-offline-concurrency/01-optimistic-offline-lock)
    - [Pessimistic Offline Lock](./08-offline-concurrency/02-pessimistic-offline-lock)
