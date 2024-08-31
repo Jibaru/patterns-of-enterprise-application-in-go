@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 20px;
+      }
+
+      h1 {
+        color: #333;
+        text-align: center;
+      }
+
+      p {
+        background-color: #fff;
+        padding: 15px;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        max-width: 600px;
+        margin: 10px auto;
+        color: #555;
+        text-align: center;
+      }
+
+      a,
+      button {
+        display: inline-block;
+        background-color: #1a73e8;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 4px;
+        text-align: center;
+        text-decoration: none;
+        cursor: pointer;
+        margin-top: 10px;
+      }
+
+      a:hover,
+      button:hover {
+        background-color: #0c5cb6;
+      }
+
+      form {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Welcome to the Home Page</h1>
+
+    {{if .UserID}}
+    <p>Hello, {{.UserID}}! You are logged in.</p>
+    <form action="/logout" method="GET">
+      <button type="submit">Logout</button>
+    </form>
+    {{else}}
+    <p>You are not logged in.</p>
+    <form action="/login" method="POST">
+      <button type="submit">Login</button>
+    </form>
+    {{end}}
+  </body>
+</html>
