@@ -45,3 +45,4 @@
    - [Application Controller](./06-web-presentation/07-application-controller)
 7. Distribution Patterns
    - [Remote Facade](./07-distribution-patterns/01-remote-facade)
+   - [Data Transfer Object](./07-distribution-patterns/02-data-transfer-object)
