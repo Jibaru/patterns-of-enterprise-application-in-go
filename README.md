@@ -50,3 +50,4 @@
    - [Optimistic Offline Lock](./08-offline-concurrency/01-optimistic-offline-lock)
    - [Pessimistic Offline Lock](./08-offline-concurrency/02-pessimistic-offline-lock)
    - [Coarse-Grained Lock](./08-offline-concurrency/03-coarse-grained-lock)
+   - [Implicit Lock](./08-offline-concurrency/04-implicit-lock)
