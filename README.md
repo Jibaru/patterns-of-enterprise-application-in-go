@@ -59,3 +59,4 @@
     - [Gateway](./10-base/01-gateway)
     - [Mapper](./10-base/02-mapper)
     - [Layer Supertype](./10-base/03-layer-supertype)
+    - [Separated Interface](./10-base/04-separated-interface)
