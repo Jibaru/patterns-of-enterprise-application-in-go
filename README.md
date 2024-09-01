@@ -65,3 +65,4 @@
     - [Money](./10-base/07-money)
     - [Special Case](./10-base/08-special-case)
     - [Plugin](./10-base/09-plugin)
+    - [Service Stub](./10-base/10-service-stub)
