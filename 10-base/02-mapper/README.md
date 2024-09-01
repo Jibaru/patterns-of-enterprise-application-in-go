@@ -1,4 +1,4 @@
-# Gateway
+# Mapper
 
 An object that sets up a communication between two independent objects.
 
