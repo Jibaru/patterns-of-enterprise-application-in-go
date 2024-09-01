@@ -55,3 +55,5 @@
    - [Client Session State](./09-session-state/01-client-session-state)
    - [Server Session State](./09-session-state/02-server-session-state)
    - [Database Session State](./09-session-state/03-database-session-state)
+10. Base Patterns
+   - [Gateway](./10-base/01-gateway)
