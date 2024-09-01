@@ -61,3 +61,4 @@
     - [Layer Supertype](./10-base/03-layer-supertype)
     - [Separated Interface](./10-base/04-separated-interface)
     - [Registry](./10-base/05-registry)
+    - [Value Object](./10-base/06-value-object)
