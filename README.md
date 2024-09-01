@@ -62,3 +62,4 @@
     - [Separated Interface](./10-base/04-separated-interface)
     - [Registry](./10-base/05-registry)
     - [Value Object](./10-base/06-value-object)
+    - [Money](./10-base/07-money)
